@@ -1,0 +1,128 @@
+<script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "ItemList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Jordan 6 Retro Black Infrared (2019)",
+                            "image" : "https://stockx.imgix.net/Air-Jordan-6-Retro-Black-Infrared-2019-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1549058088",
+                            "releaseDate" : "2019-02-16 23:59:59",
+                            "brand" : "Jordan",
+                            "model" : "Jordan 6 Retro",
+                            "sku" : "58abc774-fa8d-408d-a9f0-d400bc56dc05",
+                            "color" : "Black/Infrared",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/retro-jordans/air-jordan-6/top-selling#Jordan 6 Retro Black Infrared (2019)",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "227",
+                                    "highPrice" : "227",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/air-jordan-6-retro-black-infrared-2019"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Jordan 6 Retro Social Status",
+                            "image" : "https://stockx.imgix.net/Air-Jordan-6-Retro-Social-Status-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1550763557",
+                            "releaseDate" : "2019-02-21 23:59:59",
+                            "brand" : "Jordan",
+                            "model" : "Jordan 6 Retro",
+                            "sku" : "d0aea1d8-7ac1-4b23-8f4c-4158180beca2",
+                            "color" : "Black/Dark Concord",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/retro-jordans/air-jordan-6/top-selling#Jordan 6 Retro Social Status",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "130",
+                                    "highPrice" : "130",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/air-jordan-6-retro-cow-fur"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Jordan 6 Retro Flight Nostalgia",
+                            "image" : "https://stockx.imgix.net/Air-Jordan-6-Retro-White-Concord-Infrared-23-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1549050194",
+                            "releaseDate" : "2019-01-12 23:59:59",
+                            "brand" : "Jordan",
+                            "model" : "Jordan 6 Retro",
+                            "sku" : "73eb75bd-04a8-4170-865d-1d667de71861",
+                            "color" : "White/Dark Concord-Black-Infrared 23",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/retro-jordans/air-jordan-6/top-selling#Jordan 6 Retro Flight Nostalgia",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "125",
+                                    "highPrice" : "125",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/air-jordan-6-retro-white-concord-infrared-23"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Jordan 6 Retro Doernbecher 15th Anniversary",
+                            "image" : "https://stockx.imgix.net/Air-Jordan-6-Retro-Doernbecher-2018-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1554094308",
+                            "releaseDate" : "2019-02-23 23:59:59",
+                            "brand" : "Jordan",
+                            "model" : "Jordan 6 Retro",
+                            "sku" : "998984d2-f479-4bf9-98df-685ec0a665ad",
+                            "color" : "Midnight Navy/White-Varsity Red-Metallic Gold",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/retro-jordans/air-jordan-6/top-selling#Jordan 6 Retro Doernbecher 15th Anniversary",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "710",
+                                    "highPrice" : "710",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/air-jordan-6-retro-doernbecher-2018"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 5,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Jordan 6 Retro Reflections of a Champion",
+                            "image" : "https://stockx.imgix.net/Air-Jordan-6-Retro-Reflective-Infrared-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1560368463",
+                            "releaseDate" : "2019-06-08 23:59:59",
+                            "brand" : "Jordan",
+                            "model" : "Jordan 6 Retro",
+                            "sku" : "5a757862-593b-46df-a6c6-468b5cc295e8",
+                            "color" : "Reflect Silver/Infrared-Black",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/retro-jordans/air-jordan-6/top-selling#Jordan 6 Retro Reflections of a Champion",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "193",
+                                    "highPrice" : "193",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/air-jordan-6-retro-reflective-infrared"
+                                }
+                        }
+                    }
+                ]
+            }
+        </script>

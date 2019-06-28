@@ -1,0 +1,968 @@
+<script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "ItemList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Air Presto Off-White White (2018)",
+                            "image" : "https://stockx.imgix.net/Nike-Air-Presto-Off-White-White-2018-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-08-03 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Air Presto",
+                            "sku" : "d8ea6693-f042-4d94-b53d-8b17ea505dbd",
+                            "color" : "White/Black-Cone",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Air Presto Off-White White (2018)",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "585",
+                                    "highPrice" : "585",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-air-presto-off-white-white-2018"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Air Presto Off-White Black (2018)",
+                            "image" : "https://stockx.imgix.net/Nike-Air-Presto-Off-White-Black-2018-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-07-27 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Air Presto",
+                            "sku" : "95e59268-f3a3-4aa5-a91d-d52984c037fe",
+                            "color" : "Black/White-Cone",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Air Presto Off-White Black (2018)",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "570",
+                                    "highPrice" : "570",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-air-presto-off-white-black-2018"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike Zoom Fly Off-White Pink",
+                            "image" : "https://stockx.imgix.net/Nike-Zoom-Fly-Off-White-Pink-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1544549437",
+                            "releaseDate" : "2018-11-28 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike Zoom Fly",
+                            "sku" : "677fcc66-0b3c-4cdc-8890-d2cf2dd16a31",
+                            "color" : "Tulip Pink/Racer Pink",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike Zoom Fly Off-White Pink",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "274",
+                                    "highPrice" : "274",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-zoom-fly-off-white-pink"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Air Presto Mid Acronym Racer Pink",
+                            "image" : "https://stockx.imgix.net/Nike-Air-Presto-Mid-Acronym-Racer-Pink-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-09-20 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Air Presto Mid",
+                            "sku" : "bf843ffe-8e73-496e-bc6d-f18b1e6da55a",
+                            "color" : "Racer Pink/Black-Photo Blue-White",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Air Presto Mid Acronym Racer Pink",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "175",
+                                    "highPrice" : "175",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-air-presto-mid-acronym-racer-pink"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 5,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike Zoom Fly Off-White Black Silver",
+                            "image" : "https://stockx.imgix.net/Nike-Zoom-Fly-Off-White-Black-Silver-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1544549417",
+                            "releaseDate" : "2018-10-13 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike Zoom Fly",
+                            "sku" : "35174911-1fb1-48d0-b512-f746799d3346",
+                            "color" : "Black/White-Cone",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike Zoom Fly Off-White Black Silver",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "299",
+                                    "highPrice" : "299",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-zoom-fly-off-white-black-silver"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 6,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike React Element 87 Sail Light Bone",
+                            "image" : "https://stockx.imgix.net/Nike-React-Element-87-Sail-Light-Bone-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-07-13 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike React Element 87",
+                            "sku" : "9915b93a-02bf-42e5-9bc5-32b68fec5055",
+                            "color" : "Sail/Light Bone-White-Rush Orange",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike React Element 87 Sail Light Bone",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "390",
+                                    "highPrice" : "390",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-react-element-87-sail-light-bone"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 7,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike Cortez Basic Slip Kendrick Lamar White",
+                            "image" : "https://stockx.imgix.net/Nike-Cortez-Basic-Slip-Kendrick-Lamar-White.png?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538588355",
+                            "releaseDate" : "2018-10-14 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike Cortez Basic Slip",
+                            "sku" : "a2632212-079c-4c39-badc-03a0c8516d2d",
+                            "color" : "White/Thunder Blue-Wolf Grey-Turf Orange",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike Cortez Basic Slip Kendrick Lamar White",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "98",
+                                    "highPrice" : "98",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-cortez-basic-slip-kendrick-lamar-white"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 8,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Air Presto Mid Acronym Dynamic Yellow",
+                            "image" : "https://stockx.imgix.net/Nike-Air-Presto-Mid-Acronym-Dynamic-Yellow-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538777280",
+                            "releaseDate" : "2018-09-20 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Air Presto Mid",
+                            "sku" : "79cf3cc4-d543-430b-9a28-6d4925fe5188",
+                            "color" : "White/Black-Dynamic Yellow",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Air Presto Mid Acronym Dynamic Yellow",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "119",
+                                    "highPrice" : "119",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-air-presto-mid-acronym-dynamic-yellow"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 9,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Air Presto Mid Acronym Cool Grey",
+                            "image" : "https://stockx.imgix.net/Nike-Air-Presto-Mid-Acronym-Cool-Grey-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538777473",
+                            "releaseDate" : "2018-09-20 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Air Presto Mid",
+                            "sku" : "a0146d4e-ab8b-4e01-92c7-859b29237fdf",
+                            "color" : "Cool Grey/Black",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Air Presto Mid Acronym Cool Grey",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "103",
+                                    "highPrice" : "103",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-air-presto-mid-acronym-cool-grey"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 10,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike React Element 87 Blue Chill Solar Red",
+                            "image" : "https://stockx.imgix.net/Nike-React-Element-87-Blue-Chill-Solar-Red-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1539983595",
+                            "releaseDate" : "2018-10-11 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike React Element 87",
+                            "sku" : "d0c3f75a-8d32-421a-9a6d-728d427fb790",
+                            "color" : "Black/Cool Grey-Blue Chill-Solar Red",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike React Element 87 Blue Chill Solar Red",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "180",
+                                    "highPrice" : "180",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-react-element-87-blue-chill-solar-red"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 11,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike React Element 87 Anthracite Black",
+                            "image" : "https://stockx.imgix.net/Nike-React-Element-87-Anthracite-Black-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-06-14 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike React Element 87",
+                            "sku" : "cf02b14e-dd91-4fe4-b23c-2f4c41728e8a",
+                            "color" : "Anthracite/Black-White",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike React Element 87 Anthracite Black",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "210",
+                                    "highPrice" : "210",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-react-element-87-anthracite-black"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 12,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Air Skylon 2 Fear of God Black Sail",
+                            "image" : "https://stockx.imgix.net/Nike-Air-Skylon-2-Fear-Of-God-Black-Sail-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1546624267",
+                            "releaseDate" : "2018-12-27 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Air Skylon 2",
+                            "sku" : "c6211554-1acc-49a0-8f37-fd0118a3da27",
+                            "color" : "Black/Pearl White-Sail",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Air Skylon 2 Fear of God Black Sail",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "86",
+                                    "highPrice" : "86",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-air-skylon-2-fear-of-god-black-sail"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 13,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Air Skylon 2 Fear of God White",
+                            "image" : "https://stockx.imgix.net/Nike-Air-Skylon-2-Fear-Of-God-White-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1546624364",
+                            "releaseDate" : "2018-12-27 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Air Skylon 2",
+                            "sku" : "d56032ba-5d53-4f8a-956f-fd0487fb5355",
+                            "color" : "Summit White/Clear-Vast Grey-Pearl White",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Air Skylon 2 Fear of God White",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "100",
+                                    "highPrice" : "100",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-air-skylon-2-fear-of-god-white"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 14,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike React Element 87 Dark Grey Photo Blue",
+                            "image" : "https://stockx.imgix.net/Nike-React-Element-87-Dark-Grey-Photo-Blue-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-08-14 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike React Element 87",
+                            "sku" : "13d83991-72be-43c3-bc5c-9eb1cc1abab6",
+                            "color" : "Dark Grey/Pure Platinum-Photo Blue",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike React Element 87 Dark Grey Photo Blue",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "167",
+                                    "highPrice" : "167",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-react-element-87-dark-grey-photo-blue"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 15,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike React Element 87 Thunder Blue/Total Orange",
+                            "image" : "https://stockx.imgix.net/Nike-React-Element-87-Knicks-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1539983619",
+                            "releaseDate" : "2018-10-11 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike React Element 87",
+                            "sku" : "8cfe75a2-295b-4479-8897-4dd4c58b97c7",
+                            "color" : "Wolf Grey/Black-Thunder Blue",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike React Element 87 Thunder Blue/Total Orange",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "130",
+                                    "highPrice" : "130",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-react-element-87-knicks"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 16,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike Cortez Kenny 3 Kendrick Lamar TDE the Championship",
+                            "image" : "https://stockx.imgix.net/Nike-Cortez-Kenny-3-Kendrick-Lamar-TDE-The-Championship-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-06-22 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike Cortez Kenny 3",
+                            "sku" : "8dc402cd-4342-47fe-9a80-9ab2b1eb1934",
+                            "color" : "Black/White-Gym Red",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike Cortez Kenny 3 Kendrick Lamar TDE the Championship",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "148",
+                                    "highPrice" : "148",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-cortez-kenny-3-kendrick-lamar-tde-the-championship"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 17,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike React Element 87 Desert Sand",
+                            "image" : "https://stockx.imgix.net/Nike-React-Element-87-Desert-Sand-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-08-14 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike React Element 87",
+                            "sku" : "4c188f61-e684-4671-accf-0ac0203dbd36",
+                            "color" : "Desert Sand/Cool Grey-Smokey Mauve",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike React Element 87 Desert Sand",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "157",
+                                    "highPrice" : "157",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-react-element-87-desert-sand"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 18,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike Zoom Fly Mercurial Off-White Total Orange",
+                            "image" : "https://stockx.imgix.net/Nike-Zoom-Fly-Mercurial-Off-White-Total-Orange-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-06-14 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike Zoom Fly Mercurial",
+                            "sku" : "6b42a764-6aa8-4f52-b1a6-41b97df6b8cd",
+                            "color" : "Total Orange/White-Volt",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike Zoom Fly Mercurial Off-White Total Orange",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "248",
+                                    "highPrice" : "248",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-zoom-fly-mercurial-off-white-total-orange"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 19,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike React Element 87 Black Neptune Green",
+                            "image" : "https://stockx.imgix.net/Nike-React-Element-87-Black-Neptune-Green-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1539983578",
+                            "releaseDate" : "2018-10-11 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike React Element 87",
+                            "sku" : "790f553d-39ba-4222-9bea-623e7d1ec807",
+                            "color" : "Black/Midnight Navy-Neptune Green",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike React Element 87 Black Neptune Green",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "135",
+                                    "highPrice" : "135",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-react-element-87-black-neptune-green"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 20,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike Zoom Fly Mercurial Off-White Black",
+                            "image" : "https://stockx.imgix.net/Nike-Zoom-Fly-Mercurial-Off-White-Black-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-06-14 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike Zoom Fly Mercurial",
+                            "sku" : "f8ce3acd-b7de-4890-aca5-442ae5d56e1b",
+                            "color" : "Black/Volt-White",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike Zoom Fly Mercurial Off-White Black",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "331",
+                                    "highPrice" : "331",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-zoom-fly-mercurial-off-white-black"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 21,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike Zoom Streak Spectrum Plus Supreme White",
+                            "image" : "https://stockx.imgix.net/Nike-Zoom-Streak-Spectrum-Plus-Supreme-White-1.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-06-14 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike Zoom Streak Spectrum Plus",
+                            "sku" : "1e9128b7-c9d7-47d3-99d2-07963dd4c4c6",
+                            "color" : "White/Habanero Red-Black",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike Zoom Streak Spectrum Plus Supreme White",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "169",
+                                    "highPrice" : "169",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-zoom-streak-spectrum-plus-supreme-white"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 22,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike React Element 87 Undercover Volt",
+                            "image" : "https://stockx.imgix.net/Nike-React-Element-87-Undercover-Volt-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538777554",
+                            "releaseDate" : "2018-09-13 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike React Element 87",
+                            "sku" : "377281c8-e219-40ec-be2f-17103ec21050",
+                            "color" : "Volt/University Red-Black-White",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike React Element 87 Undercover Volt",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "270",
+                                    "highPrice" : "270",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-react-element-87-undercover-volt"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 23,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike React Element 87 Undercover Green Mist",
+                            "image" : "https://stockx.imgix.net/Nike-React-Element-87-Undercover-Green-Mist.png?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-09-13 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike React Element 87",
+                            "sku" : "be10d256-b762-4fb5-b31f-7539016d6888",
+                            "color" : "Green Mist/Linen-Summit White",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike React Element 87 Undercover Green Mist",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "341",
+                                    "highPrice" : "341",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-react-element-87-undercover-green-mist"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 24,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike React Element 55 Black Aurora Green",
+                            "image" : "https://stockx.imgix.net/Nike-React-Element-55-Black-Aurora-Green.png?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-09-29 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike React Element 55",
+                            "sku" : "edb4c4cb-d108-41bb-8238-0f4500f98937",
+                            "color" : "Black/Aurora Green-Cool Grey",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike React Element 55 Black Aurora Green",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "100",
+                                    "highPrice" : "100",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-react-element-55-black-aurora-green"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 25,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike React Element 87 Undercover Light Beige Chalk",
+                            "image" : "https://stockx.imgix.net/Nike-React-Element-87-Undercover-Light-Beige-Chalk.png?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-09-13 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike React Element 87",
+                            "sku" : "36f01d95-6aa8-4356-bf29-9b2d665918d4",
+                            "color" : "Light Biege Chalk/Signal Blue",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike React Element 87 Undercover Light Beige Chalk",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "230",
+                                    "highPrice" : "230",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-react-element-87-undercover-light-beige-chalk"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 26,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike React Element 55 Black White",
+                            "image" : "https://stockx.imgix.net/Nike-React-Element-55-Black-White-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1546676603",
+                            "releaseDate" : "2018-09-29 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike React Element 55",
+                            "sku" : "5143d709-3108-4def-b1f2-956c4d6db6cb",
+                            "color" : "Black/White",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike React Element 55 Black White",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "83",
+                                    "highPrice" : "83",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-react-element-55-black-white"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 27,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike React Element 87 Undercover Lakeside",
+                            "image" : "https://stockx.imgix.net/Nike-React-Element-87-Undercover-Lakeside-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1546676630",
+                            "releaseDate" : "2018-09-13 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike React Element 87",
+                            "sku" : "3a66b7c3-871e-41ef-83ec-41bf236e3a0e",
+                            "color" : "Lakeside/Electric Yellow-Night Maroon",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike React Element 87 Undercover Lakeside",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "200",
+                                    "highPrice" : "200",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-react-element-87-undercover-lakeside"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 28,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike React Runner Mid WR ISPA Black",
+                            "image" : "https://stockx.imgix.net/Nike-React-Runner-Mid-WR-ISPA-Black-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1545969994",
+                            "releaseDate" : "2018-11-21 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike React Runner Mid WR",
+                            "sku" : "4ed9c225-2861-485a-b8f1-9316b378057e",
+                            "color" : "Black/White-Anthracite-Total Crimson",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike React Runner Mid WR ISPA Black",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "85",
+                                    "highPrice" : "85",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-react-runner-mid-wr-ispa-black"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 29,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike Zoom Pegasus 35 Turbo Wolf Grey Hot Punch",
+                            "image" : "https://stockx.imgix.net/Nike-Zoom-Pegasus-Turbo-Wolf-Grey-Hot-Punch-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-07-19 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike Zoom Pegasus 35 Turbo",
+                            "sku" : "0f23ffb7-4a37-4f92-abfa-5dacbbe82a45",
+                            "color" : "Barely Grey/Hot Punch-Black-White",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike Zoom Pegasus 35 Turbo Wolf Grey Hot Punch",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "113",
+                                    "highPrice" : "113",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-zoom-pegasus-turbo-wolf-grey-hot-punch"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 30,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike Zoom Vomero 5 A Cold Wall Sail",
+                            "image" : "https://stockx.imgix.net/Nike-Zoom-Vomero-5-A-Cold-Wall-Sail-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1548141425",
+                            "releaseDate" : "2018-11-29 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike Zoom Vomero 5",
+                            "sku" : "4afc32a7-9d07-4ac5-8388-495fe71a846f",
+                            "color" : "Sail/Sail-Off White-Summit White-Reflect Silver",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike Zoom Vomero 5 A Cold Wall Sail",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "148",
+                                    "highPrice" : "148",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-zoom-vomero-5-a-cold-wall-sail"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 31,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Flyknit Trainer Oreo",
+                            "image" : "https://stockx.imgix.net/Nike-Flyknit-Trainer-Oreo-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-02-27 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Flyknit Trainer",
+                            "sku" : "93f06172-eb78-4fd9-a834-132ec615a12c",
+                            "color" : "Black/White-White",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Flyknit Trainer Oreo",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "90",
+                                    "highPrice" : "90",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-flyknit-trainer-oreo"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 32,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Air Tailwind 79 Vast Grey Light Photo Blue",
+                            "image" : "https://stockx.imgix.net/Nike-Air-Tailwind-79-Vast-Grey-Light-Photo-Blue-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1546674835",
+                            "releaseDate" : "2018-10-23 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Air Tailwind 79",
+                            "sku" : "fc00edcc-9cd8-44c1-b68a-910cdc6df06e",
+                            "color" : "Vast Grey/Light Photo Blue-Midnight Navy",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Air Tailwind 79 Vast Grey Light Photo Blue",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "132",
+                                    "highPrice" : "132",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-air-tailwind-79-vast-grey-light-photo-blue"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 33,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike Zoom Streak Spectrum Plus Supreme Black",
+                            "image" : "https://stockx.imgix.net/Nike-Zoom-Streak-Spectrum-Plus-Supreme-Black-1.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-06-14 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike Zoom Streak Spectrum Plus",
+                            "sku" : "bad4d705-304d-4022-a117-3020e05b10d8",
+                            "color" : "Black/Black",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike Zoom Streak Spectrum Plus Supreme Black",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "150",
+                                    "highPrice" : "150",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-zoom-streak-spectrum-plus-supreme-black"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 34,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike Zoom Fly SP Breaking 2 (2018)",
+                            "image" : "https://stockx.imgix.net/Nike-Zoom-Fly-SP-Breaking-2-2018-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1546679832",
+                            "releaseDate" : "2018-05-07 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike Zoom Fly SP",
+                            "sku" : "bab8326d-eb49-4cd1-8cac-cf1468666d6e",
+                            "color" : "White/Sail-Bright Crimson",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike Zoom Fly SP Breaking 2 (2018)",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "98",
+                                    "highPrice" : "98",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-zoom-fly-sp-breaking-2-2018"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 35,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike React Element 55 Black Solar Red",
+                            "image" : "https://stockx.imgix.net/Nike-React-Element-55-Black-Solar-Red-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1538080256",
+                            "releaseDate" : "2018-09-29 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike React Element 55",
+                            "sku" : "1e1b8a4f-69f4-41cd-8784-8b00f1e75ddd",
+                            "color" : "Black/Solar Red-Cool Grey",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike React Element 55 Black Solar Red",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "95",
+                                    "highPrice" : "95",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-react-element-55-black-solar-red"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 36,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike Zoom VaporFly 4% Flyknit Bright Crimson",
+                            "image" : "https://stockx.imgix.net/Nike-Zoom-Vaporfly-4-Flyknit-Bright-Crimson-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1546679871",
+                            "releaseDate" : "2018-10-04 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike Zoom VaporFly 4% Flyknit",
+                            "sku" : "fa339ee0-7f41-466c-9fc6-6bdd3c9eb465",
+                            "color" : "Bright Crimson/Ice Blue-Total Crimson",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike Zoom VaporFly 4% Flyknit Bright Crimson",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "200",
+                                    "highPrice" : "200",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-zoom-vaporfly-4-flyknit-bright-crimson"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 37,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike Zoom Fly Tokyo",
+                            "image" : "https://stockx.imgix.net/Nike-Zoom-Fly-Tokyo-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1545972159",
+                            "releaseDate" : "2018-02-15 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike Zoom Fly",
+                            "sku" : "b2d82008-7a61-4511-bea8-fdbfbf6401a8",
+                            "color" : "White/University Red-Summit White",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike Zoom Fly Tokyo",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "90",
+                                    "highPrice" : "90",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-zoom-fly-tokyo"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 38,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike M2K Tekno White Black Orange",
+                            "image" : "https://stockx.imgix.net/Nike-M2K-Tekno-White-Black-Orange-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1546676517",
+                            "releaseDate" : "2018-08-16 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike M2K Tekno",
+                            "sku" : "752b7c92-0708-4a8b-9e0c-57a864088476",
+                            "color" : "Summit White/Black-Team Orange",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike M2K Tekno White Black Orange",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "69",
+                                    "highPrice" : "69",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-m2k-tekno-white-black-orange"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 39,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike Zoom Vomero 5 A Cold Wall Black",
+                            "image" : "https://stockx.imgix.net/Nike-Zoom-Vomero-5-A-Cold-Wall-Black-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1545972174",
+                            "releaseDate" : "2018-11-29 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike Zoom Vomero 5",
+                            "sku" : "9d2b7bc9-fa38-49ac-b849-bfcabf572256",
+                            "color" : "Black/Black-Reflect Silver-Anthracite",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike Zoom Vomero 5 A Cold Wall Black",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "144",
+                                    "highPrice" : "144",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-zoom-vomero-5-a-cold-wall-black"
+                                }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 40,
+                        "item": {
+                            "@type": "Product",
+                            "name" : "Nike React Element 55 Triple Black",
+                            "image" : "https://stockx.imgix.net/Nike-React-Element-55-Triple-Black-Product.jpg?fit&#x3D;fill&amp;bg&#x3D;FFFFFF&amp;w&#x3D;140&amp;h&#x3D;100&amp;auto&#x3D;format,compress&amp;trim&#x3D;color&amp;q&#x3D;90&amp;dpr&#x3D;2&amp;updated_at&#x3D;1549070172",
+                            "releaseDate" : "2018-12-03 23:59:59",
+                            "brand" : "Nike",
+                            "model" : "Nike React Element 55",
+                            "sku" : "3dd13c4d-537f-4ee3-a5d5-5d0b327c8ba1",
+                            "color" : "Black/Dark Grey-Black",
+                            "itemCondition" : "https://schema.org/NewCondition",
+                            "description" : "--",
+                            "url": "https://stockx.com/nike/footwear/top-selling#Nike React Element 55 Triple Black",
+                                "offers" : {
+                                    "@type" : "AggregateOffer",
+                                    "lowPrice" : "70",
+                                    "highPrice" : "70",
+                                    "priceCurrency" : "USD",
+                                    "url" : "https://stockx.com/nike-react-element-55-triple-black"
+                                }
+                        }
+                    }
+                ]
+            }
+        </script>
