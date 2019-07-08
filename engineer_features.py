@@ -53,7 +53,7 @@ def make_data(path, days_rolling, days_forward):
     
     # Load sneaker releases data
 
-    sneaker_releases = pd.read_csv('../big_data/sneaker_metadata_collab.csv')
+    sneaker_releases = pd.read_csv('../data/sneaker_metadata_collab.csv')
     sneaker_releases['date'] = sneaker_releases.releaseDate.str.split(' ').str[0]
     
     # Create features for special collaborations
