@@ -1,4 +1,4 @@
-# Diagnostic functions originally written by Michael Betancourt
+# Diagnostic functions for PyStan
 import pickle
 import numpy
 
